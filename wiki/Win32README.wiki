@@ -64,4 +64,4 @@ C:\whatever
       
 =Building LibOFA=
 
-Open libofa\win32\libofa.sln in MSVC++ and build from there. If all the dependencies were installed and placed into the right structure, LibOFA will build for you.
+Open libofa\win32\libofa.sln in MSVC++ and build from there. If all the dependencies were installed and placed into the right structure, LibOFA will build for you.It is a very useful library if used properly.
